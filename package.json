@@ -77,6 +77,8 @@
     "redux-autoloader": "^1.0.0-rc.14",
     "redux-devtools-extension": "^2.13.5",
     "redux-form-validators": "^2.7.2",
+    "redux-form": "^7.4.2",
+    "redux-form-website-template": "0.0.123",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.3.0"
   },
