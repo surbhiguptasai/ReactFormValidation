@@ -5,3 +5,25 @@ body {
   display: flex;
   justify-content: center;
 }
+h2 {
+  display: flex;
+  justify-content: center;
+}
+
+code[class*='language-'],
+pre[class*='language-'] {
+  text-align: center !important;
+  text-shadow: none !important;
+  font-weight: bolder !important;
+  font-size: 1em !important;
+  color: black !important;
+}
+.val {
+  margin-top: 50px;
+}
+.token.string {
+  color: black !important;
+}
+.token.punctuation {
+  color: black !important;
+}
